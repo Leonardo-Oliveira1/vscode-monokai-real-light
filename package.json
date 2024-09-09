@@ -4,7 +4,7 @@
   "publisher": "Leonardo-Oliveira1",
   "description": "A complete, light and minimalistic Monokai-inspired theme.",
   "repository": "github:Leonardo-Oliveira1/vscode-monokai-real-light",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "icon": "resources/icon.png",
   "contributes": {
     "themes": [
