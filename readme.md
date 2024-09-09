@@ -26,4 +26,4 @@ Follow the instructions in the [Marketplace](https://marketplace.visualstudio.co
 
 ## License
 
-MIT © Fabio Spampinato
+MIT © Leonardo Oliveira
