@@ -1,0 +1,41 @@
+{
+  "name": "monokai-real-light",
+  "displayName": "Monokai Real Light",
+  "publisher": "Leonardo-Oliveira1",
+  "description": "A complete, light and minimalistic Monokai-inspired theme.",
+  "version": "1.0.3",
+  "icon": "assets/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Real Light",
+        "uiTheme": "vs",
+        "path": "./themes/monokai-real-light.json"
+      }
+    ]
+  },
+  "keywords": [
+    "vscode",
+    "vsc",
+    "extension",
+    "theme",
+    "monokai",
+    "light",
+    "minimalistic",
+    "clean"
+  ],
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "scripts": {
+    "package": "vsce package --no-yarn",
+    "publish": "vsce publish --no-yarn"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vsce": "^2.15.0"
+  }
+}
